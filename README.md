@@ -1,2 +1,5 @@
-# Ox-tem-To-qb-tem
-Open İn VS And open new terminal put python convert.py 
+Open Vs 
+Put Your Ox İtem List to Ox inventory.lua
+Open New Terminal
+python convert.py
+and your items will be convert
